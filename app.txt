@@ -28,4 +28,13 @@ git remote add origin  https://github.com/yoonhee8712/lesson.git
 rebase and merge
 squash and merge
 git stash 사용해서 코드 잠깐 다른 곳에 보관하기
+
+git stash save "bbb 코드짰는데 망함"
+git stash list
+git stash pop
+git stash drop 삭제할id
+git stash clear
+위에건 특정 stash 삭제, 
+밑에건 모든 stash 삭제하는 명령어입니다.
+삭제할 id는 git stash list 하면 보이는 0, 1, 2 이런 숫자 넣으면 됩니다. 
 */
