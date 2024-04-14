@@ -21,4 +21,6 @@ git restore --staged 파일명 특정 파일을 staging 취소할 수 있습니�
 git revert 커밋아이디  그 커밋아이디에서 일어난 일만 취소
 git revert HEAD  최근 생성한 commit 취소  /  merge 도 되돌리기 가능
 git reset --herd 커밋아이디  아이디 시점으로 싹 돌리기
+git push -u origin 주소 기억해
+git remote add origin  https://github.com/yoonhee8712/lesson.git
 */
