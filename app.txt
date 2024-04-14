@@ -23,4 +23,9 @@ git revert HEAD  최근 생성한 commit 취소  /  merge 도 되돌리기 가�
 git reset --herd 커밋아이디  아이디 시점으로 싹 돌리기
 git push -u origin 주소 기억해
 git remote add origin  https://github.com/yoonhee8712/lesson.git
+
+3-way merge / fast-forward merge
+rebase and merge
+squash and merge
+git stash 사용해서 코드 잠깐 다른 곳에 보관하기
 */
