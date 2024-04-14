@@ -2,7 +2,7 @@ aaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbb
 
 /* 
-git add 파일명.확장자 파일명.확장자  - staging area 
+git add 파일명.확장자 파일명.확장자 or . - staging area 
 git commit -m '메시지 내용'  - repository (저장소)
 git status  - 상태창
 git log --oneline --all - 기록
