@@ -11,4 +11,7 @@ git difftool - 비교창  :q :qa 종료 hjkl 방향키
 git branch 브랜치 명 - 브랜치 생성
 git swith 브랜치 명 - 브랜치 이동
 git log - 기록
+git merge -  브랜치 머지 (기준 브랜치에서 가져올 브랜치명 넣어줌)
+git branch -d 브랜치명 - 머지 완료된 브랜치 삭제
+git branch -D 브랜치명 - 머지 안한 브랜치 삭제
 */
